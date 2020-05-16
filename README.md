@@ -25,3 +25,7 @@ JENKINS_URL={{JENKINS_URL}}
     "GIT_MODULE_BRANCH":"master"
 }
 ```
+
+### Run script
+
+`npm start`

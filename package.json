@@ -4,7 +4,7 @@
   "description": "Automate Jenkins pipeline build with Taiko",
   "main": "deploy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "taiko deploy.js"
   },
   "keywords": [],
   "author": "",
